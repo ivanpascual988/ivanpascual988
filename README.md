@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp; Me gusta estar en constante crecimiento aprendiendo nuevas habilidades.\
-🎓 &nbsp;Cursando Master de Desarrollo de Inteligencia Artificil de ConquerBlocks.\
+🎓 &nbsp;Cursando Master de Desarrollo de Inteligencia Artificial de ConquerBlocks.\
 🏋️‍♀️ &nbsp;Apasionado del deporte y de buscar mi mejor forma física.\
 📹 &nbsp;En mis tiempo libre subo contenido a redes sociales sobre Mindset y Fitness.\
 ✔ &nbsp;Abierto a cualquier cosa que la vida me ponga por delante. Me encantan los retos y conseguirlos.\
