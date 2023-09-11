@@ -1,4 +1,4 @@
-![Ivan Pascual Rodriguez Banner]()
+![Ivan Pascual Rodriguez Banner](https://github.com/ivanpascual988/ivanpascual988/blob/5281564937c0dbfea383f74a62d99333f788db2e/banner.jpg)
 
 <h2>¡Hola, mi nombre es Iván! ✌ &nbsp; </h2>
 
