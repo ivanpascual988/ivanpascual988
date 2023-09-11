@@ -12,8 +12,9 @@
 ### 🛠 &nbsp; Lenguajes Back-End
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![AS400/RPG](https://img.shields.io/badge/-AS400/RPG-05122A?style=flat&logo=as400/rpg)&nbsp;
 
 ### 🛠 &nbsp; Lenguajes Front-End
 
