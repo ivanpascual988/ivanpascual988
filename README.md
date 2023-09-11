@@ -46,11 +46,11 @@
 ### 🤝🏻 &nbsp; Conecta conmigo 😉
 
 <p align="center">
-  <a href="https://linkedin.com/in/iprodriguez/" target="_blank"><img src="https://img.shields.io/badge/Ivan%20Pascual%20Rodriguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ivanpascual988@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ivanpascual988@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ivanmindfit" target="_blank"><img src="https://img.shields.io/badge/-@ivanmindfit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ivanmindfit" target="_blank"><img src="https://img.shields.io/badge/-@ivanmindfit-BD081C?style=flat&logo=YouTube&logoColor=white"/></a>
-  <a href="https://podcasters.spotify.com/pod/show/ivanmindfit" target="_blank"><img src="https://img.shields.io/badge/-Mindfit%20by%20Iván%20Pascual-008000?style=flat&logo=Spotify&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/iprodriguez/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ivan%20Pascual%20Rodriguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ivanpascual988@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ivanpascual988@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ivanmindfit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@ivanmindfit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@ivanmindfit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@ivanmindfit-BD081C?style=flat&logo=YouTube&logoColor=white"/></a>
+  <a href="https://podcasters.spotify.com/pod/show/ivanmindfit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Mindfit%20by%20Iván%20Pascual-008000?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
 -----
