@@ -4,11 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp; Me gusta estar en constante crecimiento aprendiendo nuevas habilidades.\
+🧠 &nbsp; Me gusta estar en constante crecimiento personal y profesional aprendiendo nuevas habilidades.\
 🎓 &nbsp;Cursando Master de Desarrollo de Inteligencia Artificial de ConquerBlocks.\
-🏋️‍♀️ &nbsp;Apasionado del deporte y de buscar mi mejor forma física.\
-📹 &nbsp;En mis tiempo libre subo contenido a redes sociales sobre Mindset y Fitness.\
+🏋️‍♀️ &nbsp;Apasionado del deporte y de buscar mi mejor versión.\
+🎥 &nbsp;En mis tiempo libre subo contenido a redes sociales sobre Mindset y Fitness.\
 ✔ &nbsp;Abierto a cualquier cosa que la vida me ponga por delante. Me encantan los retos y conseguirlos.\
+📈&nbsp; Conociminetos básicos/medios de trading e inversiones.\
 ✉️ &nbsp;Puedes enviarme un correo electrónico a ivanpascual988@gmail.com. Intentaré responderte lo antes posible.
 
 ### 🛠 &nbsp; Lenguajes Back-End
