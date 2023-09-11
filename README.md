@@ -1,4 +1,4 @@
-![Ivan Pascual Rodriguez Banner](https://raw.githubusercontent.com/ivanpascual988/ivanpascual988/master/assets/Presentacion.jpg)
+![Ivan Pascual Rodriguez Banner](https://raw.githubusercontent.com/ivanpascual988/ivanpascual988/master/banner_ipr.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
