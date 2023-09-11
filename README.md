@@ -1,71 +1,60 @@
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+<h2>¡Hola, mi nombre es Iván! ✌ &nbsp; </h2>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Iván</h2>
+### 👨🏻‍💻 &nbsp;Sobre mi
 
-<!-- ## 👋 &nbsp;Hey there! I'm Iván -->
+💡 &nbsp; Me gusta estar en constante crecimiento aprendiendo nuevas habilidades.\
+🎓 &nbsp;Cursando Master de Desarrollo de Inteligencia Artificil de ConquerBlocks.\
+🏋️‍♀️ &nbsp;Apasionado del deporte y de buscar mi mejor forma física.\
+📹 &nbsp;En mis tiempo libre subo contenido a redes sociales sobre Mindset y Fitness.\
+✔ &nbsp;Abierto a cualquier cosa que la vida me ponga por delante. Me encantan los retos y conseguirlos.\
+✉️ &nbsp;Puedes enviarme un correo electrónico a ivanpascual988@gmail.com. Intentaré responderte lo antes posible.
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ivanpascual988@gmail.com! I'll try to respond as soon as I can.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Lenguajes Back-End
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+
+### 🛠 &nbsp; Lenguajes Front-End
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+
+### 🛠 &nbsp; Frameworks
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+### 🛠 &nbsp; Programas
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp; Estadísticas de GitHub
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanpascual988&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivanpascual988&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanpascual988&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivanpascual988&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-<!--### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp; Conecta conmigo 😉
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>-->
+  <a href="https://linkedin.com/in/iprodriguez/"><img src="https://img.shields.io/badge/Ivan%20Pascual%20Rodriguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ivanpascual988@gmail.com"><img src="https://img.shields.io/badge/-ivanpascual988@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ivanmindfit"><img src="https://img.shields.io/badge/-@ivanmindfit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@ivanmindfit"><img src="https://img.shields.io/badge/-@ivanmindfit-BD081C?style=flat&logo=YouTube&logoColor=white"/></a>
+  <a href="https://podcasters.spotify.com/pod/show/ivanmindfit"><img src="https://img.shields.io/badge/-Mindfit%20by%20Iván%20Pascual-008000?style=flat&logo=Spotify&logoColor=white"/></a>
+</p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 10/09/2023
-<!--
-**ivanpascual988/ivanpascual988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Última edición: 11/09/2023
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
