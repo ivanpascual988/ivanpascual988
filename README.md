@@ -33,7 +33,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-05122A?style=flat&logo=netbeans-ide&logoColor=2C2255)
 
-### 🛠 &nbsp; Programas
+### 🛠 &nbsp; Programas / Aplicaciones
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
